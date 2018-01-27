@@ -1,0 +1,19 @@
+{
+  "name": "tafshanapp",
+  "version": "1.0.0",
+  "description": "TafshanApp Helps you kill the bordem away",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nawafalsane/tafshanapp.git"
+  },
+  "author": ["Nawaf AlSane", "Turkey AlSane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nawafalsane/tafshanapp/issues"
+  },
+  "homepage": "https://github.com/nawafalsane/tafshanapp#readme"
+}
