@@ -1,0 +1,5 @@
+# Ignore private dotenv environment variables file
+.env
+
+# Ignore Dependency directories
+node_modules/
