@@ -10,10 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/nawafalsane/tafshanapp.git"
   },
-  "author": ["Nawaf AlSane", "Turkey AlSane",
+  "author": [
+    "Nawaf AlSane",
+    "Turkey AlSane"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nawafalsane/tafshanapp/issues"
   },
-  "homepage": "https://github.com/nawafalsane/tafshanapp#readme"
+  "homepage": "https://github.com/nawafalsane/tafshanapp#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
